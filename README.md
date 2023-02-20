@@ -1,5 +1,7 @@
 #coffee shop
 
+Mini app for Mobile app writing subjects Developed in the Flutter framework. Developed in conjunction with the MongoDB database. Exam for Mobile App.
+
 credit UI https://www.uplabs.com/posts/coffee-shop-app-ui-design
 
 Mini Project for Flutter and MongoDB
